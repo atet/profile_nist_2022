@@ -1,14 +1,14 @@
-# [2022 NIST NICE Conference & Expo: Demystifying Cybersecurity![external-link-alt-solid](https://user-images.githubusercontent.com/7515173/172546851-fdcd1d8c-68cb-409d-af15-fc6f8996a2d3.png)](https://niceconference.org/)
+# [2022 NIST NICE Conference & Expo:</br>Demystifying Cybersecurity![external-link-alt-solid_58a6ff_16px](https://user-images.githubusercontent.com/7515173/172993147-f13e60e5-10c0-48fa-a186-54edff9a6de5.png)](https://niceconference.org/)
 
-### [June 6, 2022 (Pre-Conference Workshop):</br>The Impact of Automation, Artificial Intelligence, Machine Learning, and Other Emerging Technologies on the Cybersecurity Workforce![external-link-alt-solid](https://user-images.githubusercontent.com/7515173/172546851-fdcd1d8c-68cb-409d-af15-fc6f8996a2d3.png)](https://whova.com/embedded/session/WoclEM9lkbDIRxEjGsQx+KEMqC1OuV1f6NCFGH/KHLQ=/2331342/?widget=primary)
+### [June 6, 2022 (Pre-Conference Workshop):</br>The Impact of Automation, Artificial Intelligence, Machine Learning, and Other Emerging Technologies on the Cybersecurity Workforce![external-link-alt-solid_58a6ff_12px](https://user-images.githubusercontent.com/7515173/172993262-d3302f4a-92a9-4261-9af9-1a07d5ba7305.png)](https://whova.com/embedded/session/WoclEM9lkbDIRxEjGsQx+KEMqC1OuV1f6NCFGH/KHLQ=/2331342/?widget=primary)
 
 ---
 
 #### Speaker Notes for:
 
-[Athit Kao, PhD![external-link-alt-solid](https://user-images.githubusercontent.com/7515173/172546851-fdcd1d8c-68cb-409d-af15-fc6f8996a2d3.png)](https://www.athitkao.com)
-Solutions and Business Development Lead for AI/ML
-[Raytheon Blackbird Technologies, Inc.![external-link-alt-solid](https://user-images.githubusercontent.com/7515173/172546851-fdcd1d8c-68cb-409d-af15-fc6f8996a2d3.png)](https://www.raytheonintelligenceandspace.com/what-we-do/cybersecurity/raytheon-blackbird-technologies)
+[Athit Kao, PhD![external-link-alt-solid_58a6ff_12px](https://user-images.githubusercontent.com/7515173/172993262-d3302f4a-92a9-4261-9af9-1a07d5ba7305.png)](https://www.athitkao.com)  
+Solutions and Business Development Lead for AI/ML  
+[Raytheon Blackbird Technologies, Inc.![external-link-alt-solid_58a6ff_12px](https://user-images.githubusercontent.com/7515173/172993262-d3302f4a-92a9-4261-9af9-1a07d5ba7305.png)](https://www.raytheonintelligenceandspace.com/what-we-do/cybersecurity/raytheon-blackbird-technologies)
 
 ---
 
